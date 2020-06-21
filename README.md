@@ -1,6 +1,6 @@
 # royalcarwash
 
-A Java app built with netbeans built specifically for The Royal Car Wash. 
+A Java Netbeans desktop application built specifically for The Royal Car Wash on short 2 days notice. They needed a system asap and since I had prior experiance with Netbeans it would be the fastest method of delivery. This application was designed, created, and deployed on their local machine in the span of 48 hours.
 
 This application takes a clients phone number and services then saves that data to that PostgresSQL server.
 
